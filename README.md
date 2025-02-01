@@ -11,11 +11,11 @@ The objective of this task is to create a YOLO model that can accurately recogni
 ![Output](output/results.png)
 
 ## 💡The benefit of this project:
-✅Download the data
-✅Data Preparation
-✅Apply YOLO [Yolov8] model
-✅Evaluate the model
-✅Building a calorie estimation system
+- ✅Download the data
+- ✅Data Preparation
+- ✅Apply YOLO [Yolov8] model
+- ✅Evaluate the model
+- ✅Building a calorie estimation system
 
 ## Dataset
 The dataset is taken from Roboflow website:
